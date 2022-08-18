@@ -2,7 +2,7 @@
 # python3
 """
 Purpose: Predicting protein-ligand binding energy
-usage: python3 P2-score.py --p protein_file --l ligand_file (--ac float(from 2 to 3))
+usage: python3 P3-score.py --p protein_file --l ligand_file (--ac float(from 2 to 3))
 author: Li Chuang
 data: 2022-3-25
 """
