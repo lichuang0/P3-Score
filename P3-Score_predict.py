@@ -2,7 +2,7 @@
 # python3
 """
 Purpose: Predicting protein-ligand binding energy
-usage: python3 P3-score.py --p protein_file --l ligand_file (--ac float(from 2 to 3))
+usage: python3 P3-score.py --p protein_file --l ligand_file (--ac float(from 2 to 4))
 author: Li Chuang
 data: 2022-3-25
 """
@@ -533,7 +533,7 @@ def reception_and_display(protein_file, ligand_file, ac):
     Provide all working procedures, call functions here
     :param protein_file: The name of the ligand file
     :param ligand_file: The name of the protein file
-    :param ac: float form 2 to 3
+    :param ac: float form 2 to 4
     """
 
     # Extract features
