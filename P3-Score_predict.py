@@ -4,7 +4,7 @@
 Purpose: Predicting protein-ligand binding energy
 usage: python3 P3-score.py --p protein_file --l ligand_file (--ac float(from 2 to 4))
 author: Li Chuang
-data: 2022-3-25
+date: 2022-3-25
 """
 from math import sqrt
 import os
